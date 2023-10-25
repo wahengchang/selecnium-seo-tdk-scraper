@@ -1,0 +1,12 @@
+{
+  "name": "selecnium-seo-tdk-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "json-2-csv": "^4.1.1",
+    "puppeteer": "^21.4.1",
+    "selenium-webdriver": "^4.14.0"
+  }
+}
